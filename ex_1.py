@@ -6,7 +6,7 @@ def hello(a: str) -> str:
 print("Example")
 print(hello("Ola"))
 
-assert hello("Ola") == "Hello Ola"
+assert hello("Ola") == "Hello Aleksandra"
 assert hello("Zuzia") == "Hello Zuzia"
 
 print("Zadanie zrobione")
