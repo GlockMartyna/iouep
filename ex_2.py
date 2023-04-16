@@ -29,3 +29,7 @@ d=14
 obw_trapez = a+b+c+d
 pole_trapez = 1/2*(a+b)*h
 
+#prostokat
+obw_prostokat = 2*a+2*b
+pole_prostokat = a*b
+
