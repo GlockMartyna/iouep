@@ -22,4 +22,10 @@ r = 8
 obw_kolo = 2*math.pi*r
 pole_kolo = math.pi*r
 
+#trapez
+
+d=14
+
+obw_trapez = a+b+c+d
+pole_trapez = 1/2*(a+b)*h
 
