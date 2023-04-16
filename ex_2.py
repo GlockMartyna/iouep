@@ -20,7 +20,7 @@ pole_romb = a*h
 r = 8
 
 obw_kolo = 2*math.pi*r
-pole_kolo = math.pi*r^2
+pole_kolo = math.pi*r**2
 
 #trapez
 
