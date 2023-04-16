@@ -15,3 +15,11 @@ print("Pole trojkata wynosi " +  str(pole) + ",a obwod wynosi "+str(obwod))
 obw_romb = 4*a
 pole_romb = a*h
 
+#kolo
+
+r = 8
+
+obw_kolo = 2*math.pi*r
+pole_kolo = math.pi*r
+
+
