@@ -6,6 +6,6 @@ student =" Ola"
 print(f"{hello}{student}".format(hello,student) )
 
 #zadanie 2
-#hello = "hello"
-#student= "hello" + input("Martyna")
-#print(student)
+
+student= input("Hello Martyna")
+print()
