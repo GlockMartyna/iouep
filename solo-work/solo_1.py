@@ -1,6 +1,3 @@
-#zadanie 9
-studenci5 = ["Anna Szczesny", "Tomasz Nijaki", "Barbara Kowalska", "Jan Niezbedny"]
-liczba_n=0
 
 
 
